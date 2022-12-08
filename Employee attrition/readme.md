@@ -19,6 +19,43 @@ While some level of attrition in a company is inevitable, minimizing it and bein
 
 
 
+Table of Contents:
+
+  **General Information:**
+  - a) Summary of our Data
+  - b) Distribution of our Labels
+  
+  **Gender Analysis:**
+  - a) Age Distribution by Gender
+  - b) Job Satisfaction Distribution by Gender
+  - c) Monthly Income by Gender
+  - d) Presence by Department
+  
+  **Analysis by Genderation and Education:**
+  - a) Generational Behavior
+  - b) Understanding Attrition by Generation
+  
+  **The Impact of Income towards Attrition:**
+  - a) Average income by Department
+  - b) Determining Satisfaction by Income
+  - c) Average Daily Rates and Percent Difference
+  - d) Level of Attrition by Overtime
+  
+  **Working Environment:**
+  - a) Median Salary by Job Role
+  - b) Attrition by Job Role
+  - c) Current Managers and Average Satisfaction Score
+  - d) Average Environment Satisfaction
+  
+  **An In-depth Look into Attrition:**
+  - a) Digging into Attrition
+  - b) Other Factors that could Influence Attrition
+  
+  **Analysis and Models**
+  - a) Starting with Decision Trees
+  
+  **Conclusion**
+  - a) Top Reasons why Employees Leave the Organization
 
 
 
@@ -33,7 +70,4 @@ While some level of attrition in a company is inevitable, minimizing it and bein
 
 
 
-
-
-
-[Link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7024632308639111/3758398515471339/7075597562057512/latest.html) to the published databricks notebook. Valid for 6 months (published date: 06/Dec/2022)
+Here is a [Link](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7024632308639111/3758398515471339/7075597562057512/latest.html) to the published databricks notebook. Valid for 6 months (published date: 06/Dec/2022)
