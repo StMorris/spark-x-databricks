@@ -1,5 +1,5 @@
 
-**Employee attrition** is defined as the natural process by which employees leave the workforce – for example, through resignation for personal reasons or retirement – and are not immediately replaced.
+## **Employee attrition** is defined as the natural process by which employees leave the workforce – for example, through resignation, for personal reasons or retirement – and are not immediately replaced.
 **Attrition** is a problem that impacts all businesses, irrespective of geography, industry and size of the company. **Employee attrition** leads to significant costs for a business, including the cost of business disruption, hiring new staff and training new staff. As such, there is great business interest in understanding the drivers of, and minimizing staff attrition.
 
 **This can happen for many reasons:**
